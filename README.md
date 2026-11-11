@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, we're SnapInsta Team 👋
 
-<!--
-**snapinstapl/snapinstapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Small team from Poland building simple, fast web tools.
 
-Here are some ideas to get you started:
+## 🚀 Our project: [SnapInsta PL](https://snapinsta.pl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A free online Instagram downloader — save public **Reels, videos, photos, carousels and Stories** in original quality, right from the browser. No app, no login.
+
+- 🌍 Available in 21 languages
+- 📱 Works on Android, iPhone, Windows and Mac
+- ⚡ Built with PHP and vanilla JavaScript, served via LiteSpeed + Cloudflare
+
+## 📝 Writing
+
+- [Building a Multi-Language Instagram Downloader in PHP: Lessons from 21 Locales](https://dev.to/snapinstapl/building-a-multi-language-instagram-downloader-in-php-lessons-from-21-locales-4998) — Dev.to
+- [How to Download Instagram Reels on a PC Without Installing Anything](https://medium.com/@rimshabinteishaque/how-to-download-instagram-reels-on-a-pc-without-installing-anything-7cb6ccec981c) — Medium
+
+## 🔗 Find us
+
+[Website](https://snapinsta.pl) · [Dev.to](https://dev.to/snapinstapl) · [About.me](https://about.me/snapinstateam)
